@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Conoce WEVERSE</title>
+</head>
+
+<body bgcolor="#F5ECCE">
+<img src="imagenes/unnamed.png" alt="image" height="200px" width="200px">
+
+<center><img src="imagenes/images.png" alt="image" height="400px" width="1000px"></center>
+
+
+<center><table border ="1" width="90%" bgcolor="#BCF5A9"></center>
+<tr>
+<td colspan="2"><center><h1>¿Què es weverse?
+</h1></center></td>
+</tr>
+<tr>
+<td><p> Weverse es una aplicación ideal para fans del K-Pop avalada por Big Hit Entertainment, la discografica de los mundialmente conocidos BTS. En esa red podremos conocer a otros fans e informarnos sobre encuentros entre otras funciones.</p>
+
+<p>Se trata de una aplicación tipo fancafe, que viene a ser como un lugar de reunión en el que los fans de grupos de K-Pop se reúnen para hablar de sus ídolos e informarse sobre encuentros, conciertos o firmas de discos. La ola de popularidad de estos grupos surcoreanos está creciendo en todo el mundo, y esta aplicación es un buen ejemplo de que sus seguidores cada vez quieren saber más cosas sobre sus ídolos y compartir su amor por las bandas con el resto de fans.</p></td>
+<td><center><img src="imagenes/fancafe.png" alt="image" height="280px" width="280px"></center></td>
+</tr>
+</table>
+
+<center><table border ="1" width="90%" bgcolor="#E1F5A9"></center>
+<tr>
+<td colspan="2"><center><h1>Registro y acceso
+</h1></center></td>
+</tr>
+<tr>
+<td><p>En Weverse podremos elegir entre tres idiomas, una vez instalada la aplicación, para navegar por ella. Coreano, japonés e inglés. Para usar Weverse debemos registrarnos con nuestro mail, nombre y apellido y también debemos explicar cuál es nuestra nacionalidad, si somos de Corea del Sur o de otro sitio.</p>
+
+<p>Al aceptar los términos de la aplicación debemos seleccionar la pestaña que indica que somos mayores de 16 años, ya que Weverse está restringida a los mayores de esa edad. Cuando verifiquemos nuestro mail ya podremos entrar a navegar por la aplicación.</p></td>
+<td><center><img src="imagenes/condiciones.png" alt="image" height="280px" width="230px"></center></td>
+</tr>
+</table>
+
+<center><table border ="1" width="90%" bgcolor="#F2F5A9"></center>
+<tr>
+<td colspan="2"><center><h1>Grupos
+</h1></center></td>
+</tr>
+<tr>
+<td><p>Weverse cuenta con dos grupos, BTS y Tomorrow X Together (TXT), a los que nos podremos unir para ver sus novedades. Una vez nos metamos en una de las dos ‘armadas’, encontraremos tres pestañas. Feed, en la que la comunidad de seguidores irá publicando sus posts. Artist, en la que tendremos las publicaciones personales de los miembros de la dos boy bands. Y Media, donde podremos ver los vídeos de la banda, tanto los musicales como los que se graban ellos mismos comiendo o mandando mensajes de agradecimiento a su comunidad de fans.</p></td>
+<td><center><img src="imagenes/grupo.jpeg" alt="image" height="280px" width="250px"></center></td></td>
+</tr>
+</table>
+</body>
+</html>
